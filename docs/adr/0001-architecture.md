@@ -16,8 +16,7 @@ records the governed-actor architecture that promotes it to real,
 tested code, following the same langgraph-clj StateGraph + independent
 Governor + Phase 0→3 rollout pattern established by `cloud-itonami-
 isic-6511` (life insurance) and applied across fifty-five prior
-siblings, most recently `cloud-itonami-isic-7320` (market research and
-public opinion polling).
+siblings, most recently `cloud-itonami-isic-7320` (ISIC 7320).
 
 ## Decision
 
